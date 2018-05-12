@@ -1,0 +1,48 @@
+_repo: What-Shall-We-Do-_38690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    - Tolstoy, Graf Leo
+    - Tolstoy, Lev N.
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+  editors:
+  - agent_name: Mayo, Isabella Fyvie
+    aliases:
+    - Garrett, Edward
+    - I. F. M. (Isabella Fyvie Mayo)
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '32880'
+    url: http://www.gutenberg.org/2009/agents/32880
+  - agent_name: Fifield, A. C. (Arthur Charles)
+    aliases:
+    - Fifield, Arthur Charles
+    - A. C. F.
+    gutenberg_agent_id: '39610'
+    url: http://www.gutenberg.org/2009/agents/39610
+description: ''
+gutenberg_issued: '2012-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social conditions -- 1801-1917'
+- !lcc 'DK'
+title: What Shall We Do?
+url: http://www.gutenberg.org/ebooks/38690
